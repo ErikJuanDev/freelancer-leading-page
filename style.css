@@ -242,6 +242,7 @@ button:hover {
     background-image: url(Imagem/fundositecll.png);
     height: 100vh;
     overflow-y: hidden;
+    overflow-x: hidden;
   }
 
   .logocliente {
@@ -260,7 +261,7 @@ button:hover {
 
   header {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
   }
   #menu{
