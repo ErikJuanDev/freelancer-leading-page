@@ -1,2 +1,2 @@
 # freelancer-leading-page
-Trabalho freelancer Laeding page
+Trabalho freelancer Leading page
