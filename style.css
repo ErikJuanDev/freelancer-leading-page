@@ -280,12 +280,13 @@ button:hover {
 }
 @media (max-width: 360px){
   body{
-    width: 100vw;
+    width: 98vw;
     overflow-y: hidden;
     overflow-x: hidden;
   }
   .nav-bar a{
   margin: 10px;
+  font-size: .8rem;
   }
   #menu {
       display: block;
