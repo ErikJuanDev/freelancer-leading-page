@@ -237,6 +237,8 @@ button:hover {
 @media (max-width: 600px) {
   body {
     background-image: url(Imagem/fundositecll.png);
+    height: 100vh;
+    overflow-y: hidden;
   }
 
   .logocliente {
