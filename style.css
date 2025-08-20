@@ -141,7 +141,7 @@ button:hover {
   }
   .nav-bar{
     justify-content: space-evenly;
-
+    display: flex;
   }
 }
 
