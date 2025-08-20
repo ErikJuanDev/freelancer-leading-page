@@ -205,6 +205,7 @@ button:hover {
 
   .nav-bar {
     display: none;
+    font-size: .5rem;
   }
 
   .logocll {
@@ -242,8 +243,13 @@ button:hover {
     display: none;
   }
 
-  .nav-bar {
+  .nav-bar{
     display: none;
+  }
+
+  .nav-bar a{
+    font-size: 1rem;
+    padding: 0;
   }
 
   .logocll {
