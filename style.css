@@ -208,7 +208,10 @@ button:hover {
 
   .nav-bar {
     display: none;
-    font-size: .5rem;
+  }
+
+  .nav-bar a{
+    font-size: .8rem;
   }
 
   .logocll {
