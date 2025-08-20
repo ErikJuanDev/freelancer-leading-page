@@ -143,6 +143,9 @@ button:hover {
     justify-content: space-evenly;
     display: flex;
   }
+  .logocll{
+    display: none;
+  }
 }
 
 @media (max-width: 992px) {
@@ -249,11 +252,6 @@ button:hover {
     display: none;
   }
 
-  .nav-bar a{
-    font-size: .8rem;
-    padding: 0;
-  }
-
   .logocll {
     display: block;
     filter: drop-shadow(3px 3px 2px black);
@@ -279,4 +277,29 @@ button:hover {
   background-color: #ffffff7a;
   transition: .3s;
   }
+}
+@media (max-width: 360px){
+  body{
+    width: 100vw;
+    overflow-y: hidden;
+    overflow-x: hidden;
+  }
+  .nav-bar a{
+  margin: 10px;
+  }
+  #menu {
+      display: block;
+      padding: 10px;
+      margin: 10px;
+      color: #fff;
+      background-color: #ffffff36;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+  
+    #menu:hover {
+      color: black;
+      background-color: #ffffff7a;
+      transition: .3s;
+    }
 }
