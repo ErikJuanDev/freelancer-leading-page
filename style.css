@@ -284,6 +284,12 @@ button:hover {
     overflow-y: hidden;
     overflow-x: hidden;
   }
+  .nav-bar{
+    gap: 0;
+  }
+  header{
+    justify-content: space-evenly;
+  }
   .nav-bar a{
   margin: 10px;
   font-size: .8rem;
